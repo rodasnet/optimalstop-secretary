@@ -1,11 +1,7 @@
 package com.rodasnet.optimalstop.secretary;
 
 import java.util.*; 
-import java.util.stream.Collectors; 
-import java.util.stream.Stream;
 import java.util.Arrays;
-
-import com.jongsoft.lang.collection.List;
 
 /**
  * Hello world!
