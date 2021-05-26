@@ -2,7 +2,7 @@
 optimalstop-secretary
 
 ```
-List<Candidate> candies = Arrays.asList(
+List<Candidate> candidates = Arrays.asList(
             new Candidate("Bob",7,6,6), 
             new Candidate("Alice",7,4,3), 
             new Candidate("Lisa",5,8,7),
