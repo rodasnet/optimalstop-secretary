@@ -2,7 +2,6 @@
 optimalstop-secretary
 
 ```
-java
 List<Candidate> candies = Arrays.asList(
             new Candidate("Bob",7,6,6), 
             new Candidate("Alice",7,4,3), 
